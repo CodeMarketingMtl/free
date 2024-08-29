@@ -2,8 +2,8 @@
 // https://docs.google.com/spreadsheets/d/1eLx4WmhNBKYF_XyYjKJy2IuXkRIHVAmYY6eot3IDL5M/copy
 // then paste the url of YOUR sheet in the SHEET_URL variable below
 
-const SHEET_URL  = ''; // Paste your sheet URL here between the single quotes
-const NUM_DAYS   = 7;  // Choose how many days data you want
+const SHEET_URL  = 'https://docs.google.com/spreadsheets/d/15RWKRcdJ7PwhQU4QZWpAeCcnzoaz8sKRXx2srP2P87A/edit?gid=442959123#gid=442959123'; // Paste your sheet URL here between the single quotes
+const NUM_DAYS   = 90;  // Choose how many days data you want
 const MIN_CLICKS = 30; // Choose the minimum number of clicks for a search category to be included in the report
 
 
